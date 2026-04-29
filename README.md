@@ -1,10 +1,10 @@
-🔐 Smart SOC — Smart Security Operations Center
+# 🔐 Smart SOC — Smart Security Operations Center
 A real-time intelligent security system for Server Rooms, built on ESP32 with RFID access control, motion detection, smoke/fire detection, and instant LINE notifications.
 
-📌 Overview
+# 📌 Overview
 Smart SOC monitors and protects server rooms automatically — no human monitoring required. It detects unauthorized access, smoke, fire, and abnormal motion, then instantly alerts administrators via LINE Messaging API while displaying live status on an OLED screen.
 
-✨ Features
+# ✨ Features
 🪪 RFID Access Control — Whitelist-based card authentication with 10-minute session management
 🚶 Motion Detection — PIR sensor detects unauthorized presence
 🔥 Fire & Smoke Detection — MQ-2 gas sensor + DHT11 temperature monitoring
